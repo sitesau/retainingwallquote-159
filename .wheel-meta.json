@@ -1,0 +1,22 @@
+{
+  "wheel_id": 808,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-159",
+  "project": "retaining-wall-costs-d6ff0b839db8b43c3538c5ef0b30a1e29eee448e",
+  "parent_t1_ref": "retainingwallquote-013",
+  "node_role": "buffer",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall costs",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-costs-d6ff0b839db8b43c3538c5ef0b30a1e29eee448e/",
+  "tier": "T2",
+  "writeback_nonce": "cc7bdce61c01a23c",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-costs/",
+      "anchor": "Retaining Wall Costs: A Practical Quote Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
